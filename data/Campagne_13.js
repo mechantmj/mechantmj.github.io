@@ -14,6 +14,10 @@ var json_Campagne_13 = {
 { "type": "Feature", "properties": { "id": null, "Nom": "5 - Sacage des plantes d'Ellae #2", "Trame": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 2.126144688644581, 0.628815628815466 ] } },
 { "type": "Feature", "properties": { "id": null, "Nom": "105 - Quête de Tylus #5", "Trame": 5.0 }, "geometry": { "type": "Point", "coordinates": [ 0.896749084248977, -2.889804639804803 ] } },
 { "type": "Feature", "properties": { "id": null, "Nom": "J142 - Procés de Sir Eloi #3", "Trame": 3.0 }, "geometry": { "type": "Point", "coordinates": [ 0.985576923076816, -2.772588522588685 ] } },
-{ "type": "Feature", "properties": { "id": null, "Nom": "J176 - Rencontre avec Xarix #6", "Trame": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 1.950320512820411, 0.100732600732442 ] } }
+{ "type": "Feature", "properties": { "id": null, "Nom": "J176 - Rencontre avec Xarix #6", "Trame": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 1.950320512820411, 0.100732600732442 ] } },
+{ "type": "Feature", "properties": { "id": null, "Nom": "J-180 : Assassinat de Sir Tyras #3", "Trame": null }, "geometry": { "type": "Point", "coordinates": [ 1.719746331890985, 0.952133957683698 ] } },
+{ "type": "Feature", "properties": { "id": null, "Nom": "J 194 : Vision des coupables du meurtre de Sir Tyras #3", "Trame": null }, "geometry": { "type": "Point", "coordinates": [ 1.773891313743235, 0.839976495275465 ] } },
+{ "type": "Feature", "properties": { "id": null, "Nom": "J194 : La voie de l'eau #7", "Trame": null }, "geometry": { "type": "Point", "coordinates": [ 2.15290618670899, 0.524775350921291 ] } },
+{ "type": "Feature", "properties": { "id": null, "Nom": "J194 : Préparation Guerre #3", "Trame": null }, "geometry": { "type": "Point", "coordinates": [ 2.011742484022765, 0.679475299070579 ] } }
 ]
 }
